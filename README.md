@@ -28,6 +28,10 @@ Every run also has a small start fee of $0.002 (most tools) or $0.001 (Website S
 3. Fill in the input form, or keep the example input, and click **Start**.
 4. Download your results as Excel, CSV or JSON.
 
+## Video demos
+
+- [How to Find Government Cleaning Contracts on SAM.gov in 30 Seconds](https://www.youtube.com/watch?v=IBZhT266fVE)
+
 ## Coming soon
 
 - Bulk URL Status & Broken Link Checker
