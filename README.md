@@ -49,4 +49,6 @@ Every run also has a small start fee of $0.002 (most tools) or $0.001 (Website S
 
 ## Feedback and requests
 
+Also on Notion: [Apify Data Tools directory](https://plume-decision-c26.notion.site/Apify-Data-Tools-Pay-per-Result-Data-Tools-3feda3aa5e0281d4b51ffedd8e9428e8)
+
 Found a bug or want a new feature? [Open an issue](../../issues) in this repository and describe what you need.
