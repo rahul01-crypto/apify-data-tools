@@ -33,6 +33,9 @@ Every run also has a small start fee of $0.002 (most tools) or $0.001 (Website S
 - [How to Find Government Cleaning Contracts on SAM.gov in 30 Seconds](https://www.youtube.com/watch?v=IBZhT266fVE)
 - [How to Export App Store Reviews to Excel](https://www.youtube.com/watch?v=ajap0ig4Qts)
 - [Turn Any Website into AI-Ready Markdown for ChatGPT and RAG](https://www.youtube.com/watch?v=hqqSdD4ca-E)
+- [How to See What Any Website Is Built With](https://www.youtube.com/watch?v=3ub01jdxxb0)
+- [Get Fresh Job Listings Straight from Company Career Pages](https://www.youtube.com/watch?v=6OMDvYT_xEs)
+- [Find SEO Problems on Any Page in Bulk](https://www.youtube.com/watch?v=Y8rFPO0h8KU)
 
 ## Coming soon
 
