@@ -18,6 +18,11 @@ All tools use public data only (official APIs, public feeds and public web pages
 | <img src="logos/pdf-text-extractor.png" width="48" alt=""> | **[PDF to Text & Markdown Extractor](https://apify.com/pankajbhatia/pdf-text-extractor)** | Extract text from PDFs by URL, ready for AI and search. | $0.0005 per page |
 | <img src="logos/domain-whois-dns-ssl-checker.png" width="48" alt=""> | **[Domain WHOIS, DNS & SSL Checker](https://apify.com/pankajbhatia/domain-whois-dns-ssl-checker)** | Bulk domain registration, DNS, email security (SPF, DMARC) and SSL certificate checks. | $0.002 per domain |
 | <img src="logos/seo-meta-tags-checker.png" width="48" alt=""> | **[SEO Meta Tags & On-Page Audit](https://apify.com/pankajbhatia/seo-meta-tags-checker)** | Bulk on-page SEO audit: titles, descriptions, headings, Open Graph and fixes. | $0.001 per page |
+| <img src="logos/url-status-broken-link-checker.png" width="48" alt=""> | **[Bulk URL Status & Broken Link Checker](https://apify.com/pankajbhatia/url-status-broken-link-checker)** | Status codes, redirect chains, response times and broken links for thousands of URLs. | $0.0005 per URL |
+| <img src="logos/rss-feed-reader.png" width="48" alt=""> | **[RSS & Atom Feed Reader](https://apify.com/pankajbhatia/rss-feed-reader)** | Merge and filter many RSS, Atom and JSON feeds, with duplicates removed. | $0.0005 per item |
+| <img src="logos/hacker-news-scraper.png" width="48" alt=""> | **[Hacker News Scraper](https://apify.com/pankajbhatia/hacker-news-scraper)** | HN stories, comments and every Who is hiring job post. | $0.0003 per item |
+| <img src="logos/academic-paper-search.png" width="48" alt=""> | **[Academic Paper Search (Crossref, arXiv, PubMed)](https://apify.com/pankajbhatia/academic-paper-search)** | Research papers with authors, abstracts, DOIs and PDF links. | $0.002 per paper |
+| <img src="logos/sec-edgar-filings-financials.png" width="48" alt=""> | **[SEC EDGAR Filings & Financials](https://apify.com/pankajbhatia/sec-edgar-filings-financials)** | 10-K, 10-Q and 8-K filings and annual company financials. | $0.001 per record |
 
 Every run also has a small start fee of $0.002 (most tools) or $0.001 (Website Screenshot). You can set a **maximum cost per run**, so you never spend more than you plan.
 
@@ -39,11 +44,6 @@ Every run also has a small start fee of $0.002 (most tools) or $0.001 (Website S
 
 ## Coming soon
 
-- Bulk URL Status & Broken Link Checker
-- RSS & Atom Feed Reader
-- Hacker News Scraper
-- Academic Paper Search (Crossref, arXiv, PubMed)
-- SEC EDGAR Filings & Financials
 - Apple Podcasts Scraper
 - App Store Top Charts & App Search
 - ClinicalTrials.gov Scraper
