@@ -23,6 +23,11 @@ All tools use public data only (official APIs, public feeds and public web pages
 | <img src="logos/hacker-news-scraper.png" width="48" alt=""> | **[Hacker News Scraper](https://apify.com/pankajbhatia/hacker-news-scraper)** | HN stories, comments and every Who is hiring job post. | $0.0003 per item |
 | <img src="logos/academic-paper-search.png" width="48" alt=""> | **[Academic Paper Search (Crossref, arXiv, PubMed)](https://apify.com/pankajbhatia/academic-paper-search)** | Research papers with authors, abstracts, DOIs and PDF links. | $0.002 per paper |
 | <img src="logos/sec-edgar-filings-financials.png" width="48" alt=""> | **[SEC EDGAR Filings & Financials](https://apify.com/pankajbhatia/sec-edgar-filings-financials)** | 10-K, 10-Q and 8-K filings and annual company financials. | $0.001 per record |
+| <img src="logos/apple-podcasts-scraper.png" width="48" alt=""> | **[Apple Podcasts Scraper](https://apify.com/pankajbhatia/apple-podcasts-scraper)** | Podcast details and full episode lists with dates, durations and audio links. | $0.002 per podcast, $0.0003 per episode |
+| <img src="logos/app-store-top-charts.png" width="48" alt=""> | **[App Store Top Charts & App Search](https://apify.com/pankajbhatia/app-store-top-charts)** | Top free, paid and grossing app rankings for any country and category. | $0.0005 per app |
+| <img src="logos/clinicaltrials-gov-scraper.png" width="48" alt=""> | **[ClinicalTrials.gov Scraper](https://apify.com/pankajbhatia/clinicaltrials-gov-scraper)** | Clinical trials by condition, drug, sponsor, phase and status. | $0.002 per study |
+| <img src="logos/usaspending-federal-awards.png" width="48" alt=""> | **[USAspending Federal Awards](https://apify.com/pankajbhatia/usaspending-federal-awards)** | Who won federal contracts, grants and loans, and for how much. | $0.002 per award |
+| <img src="logos/grants-gov-opportunities.png" width="48" alt=""> | **[Grants.gov Opportunities](https://apify.com/pankajbhatia/grants-gov-opportunities)** | Open and forecasted federal grants with deadlines and award sizes. | $0.002 per grant |
 
 Every run also has a small start fee of $0.002 (most tools) or $0.001 (Website Screenshot). You can set a **maximum cost per run**, so you never spend more than you plan.
 
@@ -41,14 +46,6 @@ Every run also has a small start fee of $0.002 (most tools) or $0.001 (Website S
 - [How to See What Any Website Is Built With](https://www.youtube.com/watch?v=3ub01jdxxb0)
 - [Get Fresh Job Listings Straight from Company Career Pages](https://www.youtube.com/watch?v=6OMDvYT_xEs)
 - [Find SEO Problems on Any Page in Bulk](https://www.youtube.com/watch?v=Y8rFPO0h8KU)
-
-## Coming soon
-
-- Apple Podcasts Scraper
-- App Store Top Charts & App Search
-- ClinicalTrials.gov Scraper
-- USAspending Federal Awards
-- Grants.gov Opportunities
 
 ## Feedback and requests
 
