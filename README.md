@@ -28,6 +28,11 @@ All tools use public data only (official APIs, public feeds and public web pages
 | <img src="logos/clinicaltrials-gov-scraper.png" width="48" alt=""> | **[ClinicalTrials.gov Scraper](https://apify.com/pankajbhatia/clinicaltrials-gov-scraper)** | Clinical trials by condition, drug, sponsor, phase and status. | $0.002 per study |
 | <img src="logos/usaspending-federal-awards.png" width="48" alt=""> | **[USAspending Federal Awards](https://apify.com/pankajbhatia/usaspending-federal-awards)** | Who won federal contracts, grants and loans, and for how much. | $0.002 per award |
 | <img src="logos/grants-gov-opportunities.png" width="48" alt=""> | **[Grants.gov Opportunities](https://apify.com/pankajbhatia/grants-gov-opportunities)** | Open and forecasted federal grants with deadlines and award sizes. | $0.002 per grant |
+| <img src="logos/weather-forecast-alerts.png" width="48" alt=""> | **[Weather Forecast & Alerts](https://apify.com/pankajbhatia/weather-forecast-alerts)** | 9-day forecasts for any city or coordinates, plus U.S. weather alerts. | $0.002 per location |
+| <img src="logos/ted-eu-tenders-scraper.png" width="48" alt=""> | **[EU TED Tenders Scraper](https://apify.com/pankajbhatia/ted-eu-tenders-scraper)** | European public procurement notices by keyword, country, CPV code and date. | $0.002 per notice |
+| <img src="logos/bulk-domain-availability-checker.png" width="48" alt=""> | **[Bulk Domain Availability Checker](https://apify.com/pankajbhatia/bulk-domain-availability-checker)** | Check which domain names are free to register across any TLD, via official RDAP. | $0.0005 per domain |
+| <img src="logos/product-recalls-fda-cpsc-nhtsa.png" width="48" alt=""> | **[Product Recalls Scraper (FDA, CPSC, NHTSA)](https://apify.com/pankajbhatia/product-recalls-fda-cpsc-nhtsa)** | Food, drug, medical device, consumer product and vehicle recalls in one place. | $0.001 per recall |
+| <img src="logos/federal-register-documents.png" width="48" alt=""> | **[Federal Register Scraper](https://apify.com/pankajbhatia/federal-register-documents)** | U.S. rules, proposed rules, notices and comment deadlines by keyword and agency. | $0.001 per document |
 
 Every run also has a small start fee of $0.002 (most tools) or $0.001 (Website Screenshot). You can set a **maximum cost per run**, so you never spend more than you plan.
 
