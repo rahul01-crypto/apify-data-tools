@@ -38,6 +38,11 @@ All tools use public data only (official APIs, public feeds and public web pages
 | <img src="logos/uk-contracts-finder-scraper.png" width="48" alt=""> | **[UK Contracts Finder Scraper](https://apify.com/pankajbhatia/uk-contracts-finder-scraper)** | UK government tenders and contract awards with buyers, values, deadlines and suppliers. | $0.002 per notice |
 | <img src="logos/wikipedia-scraper.png" width="48" alt=""> | **[Wikipedia Scraper](https://apify.com/pankajbhatia/wikipedia-scraper)** | Articles in any language: summary, full text, Wikidata ID, categories and daily page views. | $0.001 per article |
 | <img src="logos/currency-exchange-rates-ecb.png" width="48" alt=""> | **[Currency Exchange Rates (ECB)](https://apify.com/pankajbhatia/currency-exchange-rates-ecb)** | Official ECB rates for 30 currencies: latest, any date since 1999, or a time series. | $0.0003 per rate |
+| <img src="logos/barcode-product-lookup.png" width="48" alt=""> | **[Barcode Product Lookup](https://apify.com/pankajbhatia/barcode-product-lookup)** | EAN/UPC barcodes to product name, brand, ingredients, allergens, nutrition and photos. | $0.002 per product |
+| <img src="logos/gleif-lei-company-search.png" width="48" alt=""> | **[Global Company Registry Search (LEI)](https://apify.com/pankajbhatia/gleif-lei-company-search)** | 2.5M+ companies worldwide: legal name, status, registration number, addresses and parents. | $0.002 per company |
+| <img src="logos/vin-decoder-nhtsa.png" width="48" alt=""> | **[VIN Decoder (NHTSA)](https://apify.com/pankajbhatia/vin-decoder-nhtsa)** | Bulk VIN decoding: make, model, year, trim, engine, fuel, plant and safety features. | $0.001 per VIN |
+| <img src="logos/pubmed-scraper.png" width="48" alt=""> | **[PubMed Scraper](https://apify.com/pankajbhatia/pubmed-scraper)** | Biomedical articles: titles, abstracts, authors, journals, DOIs and MeSH terms. | $0.001 per article |
+| <img src="logos/us-census-address-geocoder.png" width="48" alt=""> | **[US Address Geocoder (Census)](https://apify.com/pankajbhatia/us-census-address-geocoder)** | U.S. addresses to latitude/longitude, county, census tract and congressional district. | $0.001 per address |
 
 Every run also has a small start fee of $0.002 (most tools) or $0.001 (Website Screenshot). You can set a **maximum cost per run**, so you never spend more than you plan.
 
