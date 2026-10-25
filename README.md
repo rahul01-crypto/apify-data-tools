@@ -43,6 +43,11 @@ All tools use public data only (official APIs, public feeds and public web pages
 | <img src="logos/vin-decoder-nhtsa.png" width="48" alt=""> | **[VIN Decoder (NHTSA)](https://apify.com/pankajbhatia/vin-decoder-nhtsa)** | Bulk VIN decoding: make, model, year, trim, engine, fuel, plant and safety features. | $0.001 per VIN |
 | <img src="logos/pubmed-scraper.png" width="48" alt=""> | **[PubMed Scraper](https://apify.com/pankajbhatia/pubmed-scraper)** | Biomedical articles: titles, abstracts, authors, journals, DOIs and MeSH terms. | $0.001 per article |
 | <img src="logos/us-census-address-geocoder.png" width="48" alt=""> | **[US Address Geocoder (Census)](https://apify.com/pankajbhatia/us-census-address-geocoder)** | U.S. addresses to latitude/longitude, county, census tract and congressional district. | $0.001 per address |
+| <img src="logos/remote-jobs-aggregator.png" width="48" alt=""> | **[Remote Jobs Aggregator](https://apify.com/pankajbhatia/remote-jobs-aggregator)** | Remote and tech jobs from Remote OK, Jobicy and Arbeitnow, with salary, tags and links. | $0.001 per job |
+| <img src="logos/hugging-face-hub-scraper.png" width="48" alt=""> | **[Hugging Face Hub Scraper](https://apify.com/pankajbhatia/hugging-face-hub-scraper)** | AI models, datasets and Spaces with downloads, likes, task, license and links. | $0.001 per repository |
+| <img src="logos/world-bank-indicators.png" width="48" alt=""> | **[World Bank Indicators](https://apify.com/pankajbhatia/world-bank-indicators)** | GDP, population, inflation and 1,400+ indicators for 200+ countries by year. | $0.0003 per data point |
+| <img src="logos/tv-shows-episodes-scraper.png" width="48" alt=""> | **[TV Shows & Episodes Scraper](https://apify.com/pankajbhatia/tv-shows-episodes-scraper)** | TV shows, full episode lists, cast and daily TV and streaming schedules (TVMaze). | $0.001 per show or episode |
+| <img src="logos/wordpress-plugins-themes-scraper.png" width="48" alt=""> | **[WordPress Plugins & Themes Scraper](https://apify.com/pankajbhatia/wordpress-plugins-themes-scraper)** | WordPress.org plugins and themes with active installs, ratings and compatibility. | $0.001 per plugin or theme |
 
 Every run also has a small start fee of $0.002 (most tools) or $0.001 (Website Screenshot). You can set a **maximum cost per run**, so you never spend more than you plan.
 
